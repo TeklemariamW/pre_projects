@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Gender,PolicyType,ClaimAmount,ClaimDate
+1,John Doe,34,M,Auto,1500,2024-01-15
+2,Jane Smith,45,F,Home,3000,2024-02-20
+3,Bob Johnson,29,M,Auto,1200,2024-03-05
+4,Alice Brown,38,F,Health,500,2024-03-25
+5,Charlie Davis,52,M,Life,20000,2024-04-10
+6,Diana Evans,47,F,Home,4500,2024-05-15
+7,Edward Harris,33,M,Auto,1800,2024-06-18
+8,Fiona Clark,41,F,Health,700,2024-07-22
+9,George Martinez,36,M,Auto,1100,2024-08-30
+10,Hannah White,28,F,Life,15000,2024-09-12
+11,Ian Wilson,55,M,Home,5000,2024-10-03
+12,Jessica Taylor,44,F,Health,800,2024-11-14
+13,Kyle Moore,30,M,Auto,1300,2024-12-09
+14,Lisa King,39,F,Home,3500,2024-12-25
+15,Michael Scott,50,M,Life,18000,2024-01-07
+16,Nancy Green,42,F,Health,600,2024-01-19
+17,Oliver Hall,37,M,Auto,1400,2024-02-11
+18,Paula Adams,46,F,Home,4000,2024-03-08
+19,Quentin Baker,31,M,Auto,1600,2024-04-04
+20,Rachel Clark,40,F,Life,17000,2024-05-20

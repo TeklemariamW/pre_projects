@@ -1,0 +1,21 @@
+patient_id,visit_date,drug_administered,effectiveness_score,side_effects
+P001,2024-07-15,DrugA,85,None
+P002,2024-07-15,DrugB,90,Nausea
+P003,2024-07-15,DrugC,80,Headache
+P004,2024-07-15,DrugA,88,None
+P005,2024-07-15,DrugB,92,Dizziness
+P006,2024-07-15,DrugC,78,Fatigue
+P007,2024-07-15,DrugA,84,None
+P008,2024-07-15,DrugB,91,Blurred Vision
+P009,2024-07-15,DrugC,79,Nausea
+P010,2024-07-15,DrugA,87,None
+P011,2024-07-15,DrugB,93,Headache
+P012,2024-07-15,DrugC,77,Dizziness
+P013,2024-07-15,DrugA,86,None
+P014,2024-07-15,DrugB,94,Nausea
+P015,2024-07-15,DrugC,76,Fatigue
+P016,2024-07-15,DrugA,83,None
+P017,2024-07-15,DrugB,95,Blurred Vision
+P018,2024-07-15,DrugC,75,Nausea
+P019,2024-07-15,DrugA,89,None
+P020,2024-07-15,DrugB,96,Headache

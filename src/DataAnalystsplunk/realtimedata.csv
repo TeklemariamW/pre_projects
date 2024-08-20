@@ -1,0 +1,21 @@
+Timestamp,User_ID,Action,Page_URL,Device,Location
+2024-07-16 10:01:23,1001,Click,homepage,Desktop,San Francisco
+2024-07-16 10:01:45,1002,View,product_page,Mobile,New York
+2024-07-16 10:02:12,1003,Add to Cart,product_page,Desktop,Los Angeles
+2024-07-16 10:02:33,1001,View,checkout_page,Desktop,San Francisco
+2024-07-16 10:03:10,1004,View,homepage,Tablet,Chicago
+2024-07-16 10:03:35,1002,Click,product_page,Mobile,New York
+2024-07-16 10:04:05,1005,Add to Cart,product_page,Mobile,Houston
+2024-07-16 10:04:45,1001,Purchase,confirmation_page,Desktop,San Francisco
+2024-07-16 10:05:12,1006,View,homepage,Desktop,Miami
+2024-07-16 10:05:35,1003,Purchase,confirmation_page,Desktop,Los Angeles
+2024-07-16 10:06:10,1004,Click,product_page,Tablet,Chicago
+2024-07-16 10:06:33,1005,View,checkout_page,Mobile,Houston
+2024-07-16 10:07:05,1006,Click,product_page,Desktop,Miami
+2024-07-16 10:07:45,1001,View,homepage,Desktop,San Francisco
+2024-07-16 10:08:12,1007,Add to Cart,product_page,Tablet,Boston
+2024-07-16 10:08:35,1003,View,homepage,Desktop,Los Angeles
+2024-07-16 10:09:10,1002,Purchase,confirmation_page,Mobile,New York
+2024-07-16 10:09:35,1004,Add to Cart,product_page,Tablet,Chicago
+2024-07-16 10:10:12,1006,View,checkout_page,Desktop,Miami
+2024-07-16 10:10:35,1005,Purchase,confirmation_page,Mobile,Houston

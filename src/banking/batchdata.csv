@@ -1,0 +1,21 @@
+customer_id,customer_name,age,gender,total_spent,last_purchase_date
+12345,John Doe,35,Male,2500.00,2024-07-15
+67890,Jane Smith,28,Female,1500.00,2024-07-14
+54321,Mike Johnson,45,Male,4500.00,2024-07-16
+24680,Emily Brown,40,Female,3000.00,2024-07-12
+13579,David Lee,30,Male,1800.00,2024-07-13
+98765,Sarah Wilson,32,Female,2200.00,2024-07-11
+11223,Lisa Davis,38,Female,3500.00,2024-07-10
+99887,Chris Clark,50,Male,4000.00,2024-07-16
+66778,Olivia Martinez,27,Female,1200.00,2024-07-09
+43210,Alex Thompson,33,Male,2800.00,2024-07-08
+45678,Jessica White,42,Female,3200.00,2024-07-07
+54329,Michael Green,37,Male,3800.00,2024-07-06
+23456,Sophia Hall,29,Female,2000.00,2024-07-05
+87654,William Turner,48,Male,4200.00,2024-07-04
+13580,Amanda Young,31,Female,2600.00,2024-07-03
+98764,Daniel King,36,Male,3400.00,2024-07-02
+11224,Elizabeth Scott,39,Female,3700.00,2024-07-01
+99888,Matthew Baker,47,Male,4300.00,2024-06-30
+66779,Ashley Garcia,26,Female,1100.00,2024-06-29
+43211,Kevin Lewis,34,Male,3000.00,2024-06-28
